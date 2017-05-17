@@ -21,7 +21,7 @@
 */
 
 	return array(
-		'about' => 'About',
+		'about' => 'Tentang',
 		'add_user_x_favorites' => 'Add user ^ to my favorites',
 		'approve_required' => 'Please wait for your account to be approved or ^1add more information^2.',
 		'approve_title' => 'User approval pending',
